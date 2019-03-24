@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.API", "PhotoStorage.API\PhotoStorage.API.csproj", "{E66B7ED3-C6E0-4243-AF31-14071992314D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Core", "PhotoStorage.Core\PhotoStorage.Core.csproj", "{36B69D00-07E9-481B-95DD-AEEFF4035E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoStorage.Service", "PhotoStorage.Service\PhotoStorage.Service.csproj", "{022142A0-F9C5-4617-94DC-04CA999B65B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66B7ED3-C6E0-4243-AF31-14071992314D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66B7ED3-C6E0-4243-AF31-14071992314D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66B7ED3-C6E0-4243-AF31-14071992314D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66B7ED3-C6E0-4243-AF31-14071992314D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B69D00-07E9-481B-95DD-AEEFF4035E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B69D00-07E9-481B-95DD-AEEFF4035E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B69D00-07E9-481B-95DD-AEEFF4035E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B69D00-07E9-481B-95DD-AEEFF4035E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022142A0-F9C5-4617-94DC-04CA999B65B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022142A0-F9C5-4617-94DC-04CA999B65B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022142A0-F9C5-4617-94DC-04CA999B65B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022142A0-F9C5-4617-94DC-04CA999B65B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E6D6401-49BA-4778-AB95-10756B510119}
+	EndGlobalSection
+EndGlobal
